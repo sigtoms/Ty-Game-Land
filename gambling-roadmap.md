@@ -1,6 +1,5 @@
 useruid = PIKNIK76 ⇆ APkMISKIN
 req = Markdown Stylizing
-req()
 
 61++ Apl Bonus 500 - 3500 Tautkan No HP🔥 
 
